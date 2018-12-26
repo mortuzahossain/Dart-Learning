@@ -23,3 +23,19 @@ In veriable we can use eighter specificly declar using int , float or string or 
 use var to not tell them what kind of veriable we are using ,it automatically detact it usign the dectared value on the veriable.
 more can be learn form the dart [website](https://www.dartlang.org/guides/language/language-tour#variables).
 
+# Operators
+operator are
+Mathmatical 
+ Addition +
+ Subtruction -
+ Multiplication *
+ Divition /
+ Modulus %
+Relational
+ ==
+ !=
+ >
+ <
+ <=
+ >=
+Equality and Relational Operator -> Needed in conditional expression it retuen eighter true or false
