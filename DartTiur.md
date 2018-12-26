@@ -2,7 +2,12 @@
 - [x] Hello World Program
 - [x] Veriable
 - [x] Operators
-
+- [x] Conditions
+- [x] For Loop
+- [x] Shitch
+- [x] Function
+- [x] Scope
+- [ ] Object Orintation Programming Intro
 
 # Setup Development Environment
 To setup Environment it is better that we use flutter which come with dart along.
@@ -35,14 +40,46 @@ Mathmatical
  Divition /
  Modulus %
 Relational
+ ```
  ==
  !=
  >
  <
  <=
  >=
+ ```
 Equality and Relational Operator -> Needed in conditional expression it retuen eighter true or false
 
 Type Test Operator are another kind of operator
  as,is,is!
 
+# Conditions
+if , else
+look at the conditional.dart file and you will easyly undustant it is like c or java type .
+
+Logical Operator
+! , || , &&
+not , or , and
+
+is use in the if condition as like as we use it in c programming
+
+# For Loop
+```
+loop1.dart
+loop2.dart
+```
+# Do While / While Loop
+loop3.dart File have the detail
+
+# Switch Case
+it is alternative of if although shitch is not available in python but it exist in c , java and other programming language.
+look switch.dart to get more details.
+
+# Function
+function.dart has all the details, its totally same as java or c
+
+# Scope
+Global Veriable , Local Veriable
+Same concept as like as other language
+
+# Intro of Object Orinted Programming
