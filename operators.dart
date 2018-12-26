@@ -21,4 +21,15 @@ main(List<String> args) {
   print(a>=b);
   print(a<=b);
 
+  print("Type Test Operator ");
+  print(a is String);
+  print(a is int);
+  print(a is bool);
+  print(a is double);
+
+  // is!
+  print(a is! String);
+  print(a is! int);
+  // And So On
+
 }

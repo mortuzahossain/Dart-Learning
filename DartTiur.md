@@ -1,5 +1,8 @@
 - [x] Setup Development Environment
 - [x] Hello World Program
+- [x] Veriable
+- [x] Operators
+
 
 # Setup Development Environment
 To setup Environment it is better that we use flutter which come with dart along.
@@ -39,3 +42,7 @@ Relational
  <=
  >=
 Equality and Relational Operator -> Needed in conditional expression it retuen eighter true or false
+
+Type Test Operator are another kind of operator
+ as,is,is!
+
