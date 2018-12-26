@@ -19,4 +19,7 @@ to run the code using terminal we have navigate to the folder where the source c
 and then simpilly `dart hello.dart`
 
 # Veriable
+In veriable we can use eighter specificly declar using int , float or string or we can also do like 
+use var to not tell them what kind of veriable we are using ,it automatically detact it usign the dectared value on the veriable.
+more can be learn form the dart [website](https://www.dartlang.org/guides/language/language-tour#variables).
 
