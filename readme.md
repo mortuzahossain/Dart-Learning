@@ -83,3 +83,9 @@ Global Veriable , Local Veriable
 Same concept as like as other language
 
 # Intro of Object Orinted Programming
+- Instance veriable (class_intro.dart)
+- Add method into class (class1.dart)
+- Constructor (class2.dart)
+- Syntatic Sogur Constructor (class3.dart)
+- Named Constructor (class4.dart)
+- Setters and Getters (class5.dart)

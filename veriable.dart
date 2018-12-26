@@ -8,27 +8,27 @@ main(List<String> args) {
   */
   
   var name = 'Mortuza ';
-  int number = 10;
-  // Print Name
-  print(name);
-  // Print Number
-  print(number);
-  // Concatnat number and string
-  print(name + number.toString());
+  // int number = 10;
+  // // Print Name
+  // print(name);
+  // // Print Number
+  // print(number);
+  // // Concatnat number and string
+  // print(name + number.toString());
 
-  num a = 10;
-  int b = 100;
-  double c = 100;
-  bool isTrue = true;
-  bool falseme = false;
+  // num a = 10;
+  // int b = 100;
+  // double c = 100;
+  // bool isTrue = true;
+  // bool falseme = false;
 
-  /*
-  Constant and Final
-  Constant -- Remain same in compile time
-  Final -- Always be the same value // It can be set once
-  */
-  const pi = 3.1416;
-  final pii = 3.1416;
+  // /*
+  // Constant and Final
+  // Constant -- Remain same in compile time
+  // Final -- Always be the same value // It can be set once
+  // */
+  // const pi = 3.1416;
+  // final pii = 3.1416;
 
   /*
   Variable Concatanation
