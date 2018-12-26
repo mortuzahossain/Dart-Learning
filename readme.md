@@ -7,7 +7,7 @@
 - [x] Shitch
 - [x] Function
 - [x] Scope
-- [ ] Object Orintation Programming Intro
+- [ ] Object Orintation Programming
 
 # Setup Development Environment
 To setup Environment it is better that we use flutter which come with dart along.
@@ -82,10 +82,14 @@ function.dart has all the details, its totally same as java or c
 Global Veriable , Local Veriable
 Same concept as like as other language
 
-# Intro of Object Orinted Programming
+# Object Orinted Programming Concept
 - Instance veriable (class_intro.dart)
 - Add method into class (class1.dart)
 - Constructor (class2.dart)
 - Syntatic Sogur Constructor (class3.dart)
 - Named Constructor (class4.dart)
 - Setters and Getters (class5.dart)
+- Inheritance (class6.dart)
+- Overide Method (class7.dart)
+- Inheriting Classes with Constructor (class8.dart)
+- parrent Class overide (class9.dart)
