@@ -9,6 +9,7 @@
 - [x] Scope
 - [ ] Object Orintation Programming
 - [x] Collections
+- [ ] Library Introduction
 
 # Setup Development Environment
 To setup Environment it is better that we use flutter which come with dart along.
@@ -29,7 +30,8 @@ and then simpilly `dart hello.dart`
 
 # Veriable
 In veriable we can use eighter specificly declar using int , float or string or we can also do like 
-use var to not tell them what kind of veriable we are using ,it automatically detact it usign the dectared value on the veriable.
+use var to not tell them what kind of veriable we are using ,it automatically detact it usign the dectared
+value on the veriable.
 more can be learn form the dart [website](https://www.dartlang.org/guides/language/language-tour#variables).
 
 # Operators
@@ -73,7 +75,8 @@ loop2.dart
 loop3.dart File have the detail
 
 # Switch Case
-it is alternative of if although shitch is not available in python but it exist in c , java and other programming language.
+it is alternative of if although shitch is not available in python but it exist in c , java and
+other programming language.
 look switch.dart to get more details.
 
 # Function
@@ -101,3 +104,7 @@ Hold multiple value in a veriable
 - List -> Hold ordered group of values or objects like [12,2,9,9]
 (collection01.dart,collection02.dart,collection03.dart)
 - Map -> Disconary concept from python its key value pear type
+
+# Library
+- make own libray and import it from file (library01.dart)
+- use dart default library (library02.dart)
