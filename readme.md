@@ -93,3 +93,4 @@ Same concept as like as other language
 - Overide Method (class7.dart)
 - Inheriting Classes with Constructor (class8.dart)
 - parrent Class overide (class9.dart)
+- Interfaces and abstruct class (class10.dart)
