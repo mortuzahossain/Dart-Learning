@@ -8,6 +8,7 @@
 - [x] Function
 - [x] Scope
 - [ ] Object Orintation Programming
+- [x] Collections
 
 # Setup Development Environment
 To setup Environment it is better that we use flutter which come with dart along.
@@ -94,3 +95,9 @@ Same concept as like as other language
 - Inheriting Classes with Constructor (class8.dart)
 - parrent Class overide (class9.dart)
 - Interfaces and abstruct class (class10.dart)
+
+# Collections
+Hold multiple value in a veriable
+- List -> Hold ordered group of values or objects like [12,2,9,9]
+(collection01.dart,collection02.dart,collection03.dart)
+- Map -> Disconary concept from python its key value pear type
